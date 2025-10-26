@@ -5,5 +5,5 @@
 ![Layout Preview](./Responsive%203-Column%20to%20Single-Column%20Layout/images/Responsive%203-Column%20to%20Single-Column%20Layout.png)
 
 <div>
-    <span>Live🌐: <a href="https://threecolumntosinglecolumn.netlify.app/" target="_blank">https://threecolumntosinglecolumn.netlify.app/</a></span>
+    <span>Live🌐: <a href="https://web-layouts-git-threecoltoo-c894ca-dhamodhars-projects-03c935a5.vercel.app/" target="_blank">https://web-layouts-git-threecoltoo-c894ca-dhamodhars-projects-03c935a5.vercel.app/</a></span>
 </div>
